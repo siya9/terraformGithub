@@ -2,6 +2,7 @@
 
 > Manage **multiple AWS resources** (EC2, S3, IAM, and more) from one pipeline.
 > One tfstate in S3. One `terraform.tfvars.json` to control everything.
+> > add to commit
  
 ---
 
